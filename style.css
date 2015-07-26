@@ -1,15 +1,38 @@
-body {
-  /*background: linear-gradient(90deg, white, gray);*/
-  background-color: #eee;
-}
+/*
+font-family: 'Abril Fatface', cursive;
+font-family: 'Patua One', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Archivo Black', sans-serif;
 
-body, h1, p {
-  font-family: 'Poiret One', cursive;
-  font-weight: normal;
+*/
+
+body {
+  background-color: #eee;
   margin: 0;
   padding: 0;
   text-align: center;
   color: #8fbc8f;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 6em;
+  font-weight: 300;
+  margin: 0 0 20px 0;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 300;
+  font-size: 4em;
+}
+
+a[href^="mailto:"] {
+  font-size: 4em;
+  font-family: 'Amatic SC', cursive;
+  color: #1f341f;
+  text-decoration: none;
 }
 
 .container {
@@ -19,30 +42,4 @@ body, h1, p {
   max-width: 1170px;
   padding-right: 15px;
   padding-left: 15px;
-}
-
-.row:before, .row:after {
-  display: table;
-  content: " ";
-}
-
-h1 {
-  font-size: 48px;
-  font-weight: 300;
-  margin: 0 0 20px 0;
-}
-
-.lead {
-  font-size: 21px;
-  font-weight: 200;
-  margin-bottom: 20px;
-}
-
-p {
-  margin: 0 0 10px;
-}
-
-a[href^="mailto:"] {
-  color: #1f341f;
-  text-decoration: none;
 }
