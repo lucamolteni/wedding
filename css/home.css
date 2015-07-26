@@ -4,7 +4,7 @@ body {
 }
 
 body, h1, p {
-  font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: 'Poiret One', cursive;
   font-weight: normal;
   margin: 0;
   padding: 0;
@@ -45,4 +45,3 @@ a {
   color: #3282e6;
   text-decoration: none;
 }
-
