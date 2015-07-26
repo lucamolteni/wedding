@@ -42,7 +42,7 @@ p {
   margin: 0 0 10px;
 }
 
-a {
-  color: #3282e6;
+a[href^="mailto:"] {
+  color: #1f341f;
   text-decoration: none;
 }
