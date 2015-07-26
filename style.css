@@ -33,6 +33,8 @@ a[href^="mailto:"] {
   font-family: 'Amatic SC', cursive;
   color: #1f341f;
   text-decoration: none;
+  word-break: break-all;
+
 }
 
 .container {
