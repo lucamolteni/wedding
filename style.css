@@ -34,7 +34,8 @@ a[href^="mailto:"] {
   color: #1f341f;
   text-decoration: none;
   word-break: break-all;
-  padding-bottom:10px;
+  padding-bottom:70px;
+  display: block;
 }
 
 .container {
