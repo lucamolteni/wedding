@@ -29,12 +29,12 @@ h2 {
 }
 
 a[href^="mailto:"] {
-  font-size: 4em;
+  font-size: 2em;
   font-family: 'Amatic SC', cursive;
   color: #1f341f;
   text-decoration: none;
   word-break: break-all;
-
+  padding-bottom:10px;
 }
 
 .container {
