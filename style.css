@@ -66,5 +66,6 @@ a[href^="mailto:"] {
 }
 
 #tutticubi {
-  margin: 50px;
+  width:860px;
+  margin: auto;
 }
