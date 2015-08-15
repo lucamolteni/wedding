@@ -58,4 +58,5 @@ a[href^="mailto:"] {
   font-size: 2em;
   font-family: "Amatic SC", cursive;
   color: #333333;
+  float: left;
 }
