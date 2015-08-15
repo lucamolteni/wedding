@@ -60,3 +60,7 @@ a[href^="mailto:"] {
   color: #333333;
   float: left;
 }
+
+.trecubi {
+  clear: both;
+}
