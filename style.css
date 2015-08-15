@@ -94,8 +94,8 @@ a[href^="mailto:"] {
 }
 
 #insiemi {
-  width:300px;
-  height:300px;
+  width:450px;
+  height:450px;
   margin: auto;
   background-image: url(./insieme.svg);
   background-repeat: no-repeat;
@@ -103,7 +103,21 @@ a[href^="mailto:"] {
 }
 
 .testo {
-  font-size: 1em;
+  font-size: 1.5em;
   font-family: "Abril Fatface", cursive;
   color: #cccccc;
+}
+
+#cerimonia {
+  width: 800px;
+  height: 300px;
+  background-color: #8fbc8f;
+  color: white;
+}
+
+div#cerimonia h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 3em;
+  font-weight: 300;
+  margin: 0 0 20px 0;
 }
