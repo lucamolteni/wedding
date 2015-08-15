@@ -54,7 +54,7 @@ a[href^="mailto:"] {
   background-color: #cccccc;
   text-align: center;
   vertical-align: middle;
-  padding-top: 100px;
+  padding-top: 120px;
   font-size: 2em;
   font-family: "Amatic SC", cursive;
   color: #333333;
@@ -79,4 +79,10 @@ a[href^="mailto:"] {
   background-repeat: no-repeat;
   position: absolute;
   margin-top: -86px;
+}
+
+#immagine {
+  background-image: url(./IMG1-01.svg);
+  background-repeat: no-repeat;
+  background-color: white;
 }
