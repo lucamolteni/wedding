@@ -46,3 +46,15 @@ a[href^="mailto:"] {
   padding-right: 15px;
   padding-left: 15px;
 }
+
+.quadrato {
+  width: 280px;
+  height: 180px;
+  background-color: #cccccc;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 100px;
+  font-size: 3em;
+  font-family: "Amatic SC", cursive;
+  color: #333333;
+}
