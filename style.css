@@ -93,14 +93,17 @@ a[href^="mailto:"] {
   color: #333333;
 }
 
-#immagine2 {
-  background-image: url(./Insiemi_sez2-01.svg);
+#insiemi {
+  width:300px;
+  height:300px;
+  margin: auto;
+  background-image: url(./insieme.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
 
 .testo {
   font-size: 1em;
-  font-family: "Abril Fatface", cursive; 
+  font-family: "Abril Fatface", cursive;
   color: #cccccc;
 }
