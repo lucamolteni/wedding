@@ -70,3 +70,11 @@ a[href^="mailto:"] {
   margin: auto;
   margin-top: 200px;
 }
+
+#banner {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+  background-image: url(./LogoVL-01.svg);
+  background-repeat: no-repeat;
+}
