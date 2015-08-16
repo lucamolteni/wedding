@@ -157,3 +157,17 @@ div#superPartyTime h2 {
 div#superPartyTime p {
   font-size: 1em;
 }
+
+#mappamondo {
+  width:300px;
+  height:300px;
+  margin: auto;
+  background-image: url(./insieme.svg);
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+div#regali_nel_cuore h1{
+  font-size: 3em;
+  font-weight: 300;
+}
