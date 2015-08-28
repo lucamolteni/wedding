@@ -83,15 +83,15 @@ a[href^="mailto:"] {
   color: #333333;
 }
 #insiemi {
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
   margin: auto;
   background-image: url(./images/insieme.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
 .testo {
-  font-size: 1.7em;
+  font-size: 1.8em;
   font-family: 'Dancing Script', cursive;
   font-weight: 400;
   color: #cccccc;
