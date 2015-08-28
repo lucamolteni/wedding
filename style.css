@@ -191,3 +191,18 @@ h1.titolo-sezione {
   background-repeat: no-repeat;
   background-color: white;
 }
+#si-sposano {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#data-lettere {
+  font-family: 'Abril Fatface', cursive;
+}
+#data-numeri {
+  font-family: 'Abril Fatface', cursive;  
+}
+#data-riassunto {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#footer-tradizioni {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
