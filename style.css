@@ -14,39 +14,34 @@ body {
   text-align: center;
   color: #8fbc8f;
 }
-
 h1 {
   font-family: 'Amatic SC', cursive;
   font-size: 6em;
   font-weight: 300;
   margin: 0 0 20px 0;
 }
-
 h2 {
   font-family: 'Amatic SC', cursive;
   font-weight: 300;
   font-size: 4em;
 }
-
 a[href^="mailto:"] {
   font-size: 2em;
   font-family: 'Amatic SC', cursive;
   color: #1f341f;
   text-decoration: none;
   word-break: break-all;
-  padding-bottom:70px;
+  padding-bottom: 70px;
   display: block;
 }
-
 .container {
-  margin-left:  auto;
-  margin-right:  auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 177px;
   max-width: 1170px;
   padding-right: 15px;
   padding-left: 15px;
 }
-
 .quadrato {
   width: 280px;
   height: 180px;
@@ -60,17 +55,14 @@ a[href^="mailto:"] {
   color: #333333;
   float: left;
 }
-
 .trecubi {
   clear: both;
 }
-
 #tutticubi {
-  width:860px;
+  width: 860px;
   margin: auto;
   margin-top: 80px;
 }
-
 #banner {
   width: 500px;
   height: 162px;
@@ -80,35 +72,35 @@ a[href^="mailto:"] {
   position: absolute;
   margin-top: -86px;
 }
-
 #immagine {
   background-image: url(./images/IMG1-01.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
-
 .titoli {
   font-size: 2em;
   font-family: "Amatic SC", cursive;
   color: #333333;
 }
-
 #insiemi {
-  width:450px;
-  height:450px;
+  width: 450px;
+  height: 450px;
   margin: auto;
   background-image: url(./images/insieme.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
-
 .testo {
   font-size: 1.5em;
   font-family: 'Dancing Script', cursive;
   font-weight: 400;
   color: #cccccc;
 }
-
+#dove {
+  padding-top: 100px;
+  margin: auto;
+  width: 70%;
+}
 #cerimonia {
   width: 800px;
   height: 203px;
@@ -119,7 +111,6 @@ a[href^="mailto:"] {
   padding: 10px;
   border: 3px solid white;
 }
-
 div#cerimonia h1 {
   font-family: 'Abril Fatface', cursive;
   font-style: oblique;
@@ -128,7 +119,6 @@ div#cerimonia h1 {
   margin-bottom: -35px;
   margin-left: 20px;
 }
-
 div#cerimonia h2 {
   font-family: 'Abril Fatface', cursive;
   font-style: oblique;
@@ -137,15 +127,12 @@ div#cerimonia h2 {
   font-weight: 300;
   margin-left: 20px;
 }
-
 div#cerimonia p {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-family:
-  font-size: 1em;
+  font-family: font-size: 1em;
   margin-top: -10px;
   margin-left: 20px;
 }
-
 #superPartyTime {
   width: 800px;
   height: 203px;
@@ -156,7 +143,6 @@ div#cerimonia p {
   padding: 10px;
   border: 3px solid white;
 }
-
 div#superPartyTime h1 {
   font-family: 'Abril Fatface', cursive;
   font-style: oblique;
@@ -165,7 +151,6 @@ div#superPartyTime h1 {
   margin-bottom: -35px;
   margin-right: 20px;
 }
-
 div#superPartyTime h2 {
   font-family: 'Abril Fatface', cursive;
   font-style: oblique;
@@ -174,24 +159,21 @@ div#superPartyTime h2 {
   font-weight: 300;
   margin-right: 20px;
 }
-
 div#superPartyTime p {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1em;
   margin-top: -10px;
   margin-right: 20px;
 }
-
 #mappamondo {
-  width:300px;
-  height:300px;
+  width: 300px;
+  height: 300px;
   margin: auto;
   background-image: url(./images/insieme.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
-
-div#regali_nel_cuore h1{
+div#regali_nel_cuore h1 {
   font-size: 3em;
   font-weight: 300;
 }
