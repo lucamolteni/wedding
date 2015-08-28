@@ -164,10 +164,10 @@ div#superPartyTime p {
   margin-right: 20px;
 }
 #mappamondo {
-  width: 400px;
-  height: 400px;
+  width: 900px;
+  height:500px;
   margin: auto;
-  background-image: url(./images/newzeland-01.svg);
+  background-image: url(./images/Mondo.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
