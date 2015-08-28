@@ -197,7 +197,7 @@ h1.titolo-sezione {
   font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
   font-size: 7.5em;
   margin-top: 20px;
-  color: #cccccc;
+  color: #dadada;
 }
 #data-lettere {
   font-family: 'Abril Fatface', cursive;
@@ -218,12 +218,12 @@ h1.titolo-sezione {
   font-style: normal;
   font-size: 3.1em;
   margin-top: -220px;
-  color: #cccccc;
+  color: #dadada;
 }
 #footer-tradizioni {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-size: 1em;
   margin-top: 80px;
-  color: #cccccc;
+  color: #d7d7d7;
 }
