@@ -173,7 +173,7 @@ div#superPartyTime p {
   background-repeat: no-repeat;
   background-color: white;
 }
-div#regali_nel_cuore h1 {
+h1.titolo-sezione {
   font-size: 3em;
   font-weight: 300;
 }
