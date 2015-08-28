@@ -104,7 +104,8 @@ a[href^="mailto:"] {
 
 .testo {
   font-size: 1.5em;
-  font-family: "Abril Fatface", cursive;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 400;
   color: #cccccc;
 }
 
