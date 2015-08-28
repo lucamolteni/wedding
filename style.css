@@ -102,7 +102,6 @@ a[href^="mailto:"] {
   width: 70%;
 }
 #cerimonia {
-  width: 800px;
   height: 203px;
   background-color: #C9DACC;
   color: white;
@@ -134,7 +133,6 @@ div#cerimonia p {
   margin-left: 20px;
 }
 #superPartyTime {
-  width: 800px;
   height: 203px;
   background-color: #94B69A;
   color: white;
