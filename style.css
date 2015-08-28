@@ -178,16 +178,16 @@ h1.titolo-sezione {
   font-weight: 300;
 }
 #immagini-vestiti-lui {
-  width: 400px;
-  height:80px;
+  width: 500px;
+  height:90px;
   margin: auto;
   background-image: url(./images/abitiuomo-01.svg);
   background-repeat: no-repeat;
   background-color: white;
 }
 #immagini-vestiti-lei {
-  width: 400px;
-  height:80px;
+  width: 500px;
+  height:90px;
   margin: auto;
   background-image: url(./images/abitidonna-01.svg);
   background-repeat: no-repeat;
