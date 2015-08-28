@@ -111,7 +111,7 @@ a[href^="mailto:"] {
 
 #cerimonia {
   width: 800px;
-  height: 300px;
+  height: 203px;
   background-color: #C9DACC;
   color: white;
   text-align: left;
@@ -125,6 +125,8 @@ div#cerimonia h1 {
   font-style: oblique;
   font-size: 3em;
   font-weight: 300;
+  margin-bottom: -35px;
+  margin-left: 20px;
 }
 
 div#cerimonia h2 {
@@ -133,17 +135,20 @@ div#cerimonia h2 {
   letter-spacing: 3px;
   font-size: 2em;
   font-weight: 300;
+  margin-left: 20px;
 }
 
 div#cerimonia p {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-family:
   font-size: 1em;
+  margin-top: -10px;
+  margin-left: 20px;
 }
 
 #superPartyTime {
   width: 800px;
-  height: 300px;
+  height: 203px;
   background-color: #94B69A;
   color: white;
   text-align: right;
@@ -157,6 +162,8 @@ div#superPartyTime h1 {
   font-style: oblique;
   font-size: 3em;
   font-weight: 300;
+  margin-bottom: -35px;
+  margin-right: 20px;
 }
 
 div#superPartyTime h2 {
@@ -165,11 +172,14 @@ div#superPartyTime h2 {
   letter-spacing: 3px;
   font-size: 2em;
   font-weight: 300;
+  margin-right: 20px;
 }
 
 div#superPartyTime p {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1em;
+  margin-top: -10px;
+  margin-right: 20px;
 }
 
 #mappamondo {
