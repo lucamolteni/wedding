@@ -121,6 +121,8 @@ a[href^="mailto:"] {
 }
 
 div#cerimonia h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-style: oblique;
   font-size: 3em;
   font-weight: 300;
 }
@@ -131,6 +133,8 @@ div#cerimonia h2 {
 }
 
 div#cerimonia p {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family:
   font-size: 1em;
 }
 
@@ -146,6 +150,8 @@ div#cerimonia p {
 }
 
 div#superPartyTime h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-style: oblique;
   font-size: 3em;
   font-weight: 300;
 }
@@ -156,6 +162,7 @@ div#superPartyTime h2 {
 }
 
 div#superPartyTime p {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1em;
 }
 
