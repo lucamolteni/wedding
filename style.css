@@ -173,6 +173,8 @@ div#superPartyTime p {
 }
 h1.titolo-sezione {
   font-size: 3em;
+  font-family: "Amatic SC", cursive;
+  color: #333333;
   font-weight: 300;
 }
 #immagini-vestiti-lui {
@@ -192,17 +194,36 @@ h1.titolo-sezione {
   background-color: white;
 }
 #si-sposano {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  font-size: 7.5em;
+  margin-top: 20px;
+  color: #cccccc;
 }
 #data-lettere {
   font-family: 'Abril Fatface', cursive;
+  font-style: oblique;
+  font-size: 2.6em;
+  margin-top: -120px;
+  color: #cccccc;
 }
 #data-numeri {
-  font-family: 'Abril Fatface', cursive;  
+  font-family: 'Abril Fatface', cursive;
+  font-style: normal;
+  font-size: 12em;
+  margin-top: -80px;
+  color: #cccccc;
 }
 #data-riassunto {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 3.1em;
+  margin-top: -220px;
+  color: #cccccc;
 }
 #footer-tradizioni {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 1em;
+  margin-top: 80px;
+  color: #cccccc;
 }
