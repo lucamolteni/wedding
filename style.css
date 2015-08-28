@@ -112,7 +112,7 @@ a[href^="mailto:"] {
 #cerimonia {
   width: 800px;
   height: 300px;
-  background-color: #8fbc8f;
+  background-color: #C9DACC;
   color: white;
   text-align: left;
   font-family: 'Abril Fatface', cursive;
@@ -144,7 +144,7 @@ div#cerimonia p {
 #superPartyTime {
   width: 800px;
   height: 300px;
-  background-color: green;
+  background-color: #94B69A;
   color: white;
   text-align: right;
   font-family: 'Abril Fatface', cursive;
