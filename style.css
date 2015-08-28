@@ -166,8 +166,8 @@ div#superPartyTime p {
   margin-right: 20px;
 }
 #mappamondo {
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   margin: auto;
   background-image: url(./images/newzeland-01.svg);
   background-repeat: no-repeat;
@@ -176,4 +176,20 @@ div#superPartyTime p {
 h1.titolo-sezione {
   font-size: 3em;
   font-weight: 300;
+}
+#immagini-vestiti-lui {
+  width: 400px;
+  height:80px;
+  margin: auto;
+  background-image: url(./images/abitiuomo-01.svg);
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#immagini-vestiti-lei {
+  width: 400px;
+  height:80px;
+  margin: auto;
+  background-image: url(./images/abitidonna-01.svg);
+  background-repeat: no-repeat;
+  background-color: white;
 }
