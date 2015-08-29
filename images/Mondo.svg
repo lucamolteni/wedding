@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="678px" height="476px" viewBox="0 0 678 476" enable-background="new 0 0 678 476" xml:space="preserve">
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 670.2 470.4" enable-background="new 0 0 670.2 470.4" xml:space="preserve">
 <g>
 	<g>
 		<g>
@@ -405,7 +405,7 @@
 				l1.982,3.979l-0.872,0.252c-1.635-7.32-2.427-11.308-2.376-11.962l0.726-0.37c0.637-0.185,1.433,0.913,2.39,3.289
 				c0.649,1.261,2.114,3.658,4.395,7.193l1.212,1.938l-0.603,0.562c-2.542-10.047-4.521-18.373-5.934-24.979L305.398,283.293z"/>
 		</g>
-		
+
 			<text transform="matrix(0.9471 -0.2653 0.2697 0.963 318.634 310.0349)" fill="#F4F1ED" font-family="'MoonFlowerBold'" font-size="45.0046"> </text>
 		<g>
 			<path fill="#422933" d="M115.7,225.492l-9.55,9.549l-3.918-3.918l9.55-9.549c0.78-0.781,2.047-0.781,2.828,0l1.09,1.09
@@ -457,9 +457,9 @@
 						<clipPath id="SVGID_10_">
 							<use xlink:href="#SVGID_9_"  overflow="visible"/>
 						</clipPath>
-						
+
 							<polygon clip-path="url(#SVGID_10_)" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-							648.957,202.479 643.021,192.438 652.029,199.69 662.07,193.753 654.817,202.762 660.756,212.803 651.745,205.55 
+							648.957,202.479 643.021,192.438 652.029,199.69 662.07,193.753 654.817,202.762 660.756,212.803 651.745,205.55
 							641.704,211.487 						"/>
 					</g>
 				</g>
@@ -473,9 +473,9 @@
 						<clipPath id="SVGID_12_">
 							<use xlink:href="#SVGID_11_"  overflow="visible"/>
 						</clipPath>
-						
+
 							<polygon clip-path="url(#SVGID_12_)" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-							548.735,101.459 544.633,90.539 552.243,99.247 563.163,95.145 554.455,102.756 558.558,113.676 550.947,104.969 
+							548.735,101.459 544.633,90.539 552.243,99.247 563.163,95.145 554.455,102.756 558.558,113.676 550.947,104.969
 							540.027,109.07 						"/>
 					</g>
 				</g>
@@ -489,20 +489,20 @@
 						<clipPath id="SVGID_14_">
 							<use xlink:href="#SVGID_13_"  overflow="visible"/>
 						</clipPath>
-						
+
 							<polygon clip-path="url(#SVGID_14_)" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-							661.464,50.068 667.4,40.026 665.387,51.416 675.429,57.352 664.039,55.34 658.104,65.38 660.116,53.992 650.074,48.056 
+							661.464,50.068 667.4,40.026 665.387,51.416 675.429,57.352 664.039,55.34 658.104,65.38 660.116,53.992 650.074,48.056
 													"/>
 					</g>
 				</g>
 			</g>
-			
+
 				<path fill="none" stroke="#B3B3B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2,8" d="
 				M22.772,267.641c0,0-46.889,94.869,44.115,138.82"/>
-			
+
 				<path fill="none" stroke="#B3B3B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2,8" d="
 				M614.137,305.478c0,0,1.479-52.783-20.936-91.191"/>
-			
+
 				<path fill="none" stroke="#999999" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2,8" d="
 				M600.635,67.211c0,0-54.811-86.543-107.206-15.305c-54.905,74.65-117.205,26.899-117.205,26.899"/>
 			<g opacity="0.6">
@@ -514,7 +514,7 @@
 						<clipPath id="SVGID_16_">
 							<use xlink:href="#SVGID_15_"  overflow="visible"/>
 						</clipPath>
-						
+
 							<path clip-path="url(#SVGID_16_)" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 							M261.71,10.259V10.25c0-4.971-4.029-9.001-9-9.001c-4.972,0-9.001,4.03-9.001,9.001v0.009
 							c-0.06-0.001-0.117-0.009-0.178-0.009c-4.971,0-9,4.03-9,9.001c0,4.972,4.029,9.001,9,9.001h18.003
@@ -531,7 +531,7 @@
 						<clipPath id="SVGID_18_">
 							<use xlink:href="#SVGID_17_"  overflow="visible"/>
 						</clipPath>
-						
+
 							<path clip-path="url(#SVGID_18_)" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 							M419.524,39.211c0-0.003,0-0.006,0-0.006c0-4.974,4.029-9.004,9-9.004s9.001,4.03,9.001,9.001c0,0,0,0.006,0,0.009
 							c0.06-0.001,0.117-0.009,0.177-0.009c4.973,0,9,4.03,9,9.001s-4.027,9.001-9,9.001H419.7c-4.972,0-9.001-4.03-9.001-9.001

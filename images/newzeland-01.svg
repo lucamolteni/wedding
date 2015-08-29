@@ -406,32 +406,32 @@
 			c-0.1-0.6-0.1-1.2-0.1-1.8c0-9.3,7.6-16.9,16.9-16.9c8.3,0,15.3,5.9,16.7,14c0.7-0.1,1.5-0.1,2.2-0.1c8.3,0,15.3,6,16.7,14.1
 			c3.9,1.5,6.5,5.2,6.5,9.5C116.3,314.1,115.8,314.6,115.2,314.6z"/>
 	</g>
-	
+
 		<polygon opacity="0.6" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		643.8,201.5 637.8,191.5 646.8,198.7 656.9,192.8 649.6,201.8 655.6,211.8 646.5,204.6 636.5,210.5 	"/>
-	
+
 		<polygon opacity="0.6" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		543.5,100.5 539.4,89.6 547,98.3 558,94.2 549.3,101.8 553.4,112.7 545.7,104 534.8,108.1 	"/>
-	
+
 		<polygon opacity="0.6" fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		656.3,49.1 662.2,39 660.2,50.4 670.2,56.4 658.8,54.4 652.9,64.4 654.9,53 644.9,47.1 	"/>
-	
+
 		<path fill="none" stroke="#B3B3B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2,8" d="
 		M17.6,266.7c0,0-46.9,94.9,44.1,138.8"/>
-	
+
 		<path fill="none" stroke="#B3B3B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2,8" d="
 		M608.9,304.5c0,0,1.5-52.8-20.9-91.2"/>
-	
+
 		<path fill="none" stroke="#999999" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="2,8" d="
 		M595.4,66.2c0,0-54.8-86.5-107.2-15.3C433.3,125.6,371,77.8,371,77.8"/>
 	<g opacity="0.6">
-		
+
 			<path fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 			M256.5,9.3L256.5,9.3c0-5-4-9-9-9c-5,0-9,4-9,9l0,0c-0.1,0-0.1,0-0.2,0c-5,0-9,4-9,9c0,5,4,9,9,9h18c5,0,9-4,9-9
 			C265.3,13.4,261.4,9.4,256.5,9.3z"/>
 	</g>
 	<g opacity="0.6">
-		
+
 			<path fill="none" stroke="#CCCCCC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 			M414.3,38.2C414.3,38.2,414.3,38.2,414.3,38.2c0-5,4-9,9-9c5,0,9,4,9,9c0,0,0,0,0,0c0.1,0,0.1,0,0.2,0c5,0,9,4,9,9c0,5-4,9-9,9
 			h-18c-5,0-9-4-9-9C405.5,42.3,409.4,38.3,414.3,38.2z"/>
