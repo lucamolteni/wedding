@@ -1,24 +1,176 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Valentina e Luca si sposano</title>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link href='http://fonts.googleapis.com/css?family=Abril+Fatface|Patua+One|Amatic+SC:400,700|Lobster+Two' rel='stylesheet' type='text/css'>
+  <title>Valentina e Luca si sposano</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link href='http://fonts.googleapis.com/css?family=Abril+Fatface|Patua+One|Amatic+SC:400,700|Lobster+Two' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" type="text/css" href="fullPage.js-master/jquery.fullPage.css" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+  <script type="text/javascript" src="fullPage.js-master/jquery.fullPage.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#fullpage').fullpage({
+        anchors: ['menu', 'chi', 'quando', 'dove', 'come', 'cosa'],
+      });
+    });
+  </script>
 
 </head>
 
 <body>
 
-<div class="container text-center" id="error">
-  <div class="row">
-    <h1>Valentina e Luca si sposano!</h1>
-    <h2>Conferma la tua presenza qui:</h2>
-    <a href="mailto:rsvp@valentinaeluca.com?subject=Conferma presenza matrimonio">rsvp@valentinaeluca.com</a>
+  <div id="fullpage">
+    <div class="section active" id="section0">
+      <div id="tutticubi">
+        <div id="banner">
+
+        </div>
+
+        <div class="trecubi">
+          <a href="#chi">
+            <div class="quadrato">
+              CHI ?
+            </div>
+          </a>
+
+          <a href="#quando">
+            <div class="quadrato">
+              QUANDO ?
+            </div>
+          </a>
+
+          <a href="#dove">
+            <div class="quadrato">
+              DOVE ?
+            </div>
+          </a>
+        </div>
+
+        <div class="trecubi">
+          <a href="#come">
+            <div class="quadrato">
+              COME ?
+            </div>
+          </a>
+
+          <div class="quadrato" id="immagine">
+          </div>
+
+          <a href="#cosa">
+            <div class="quadrato">
+              COSA ?
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="section1">
+      <div id="insiemi">
+      </div>
+
+      <div class="testo"> Conosciutisi ad una conferenza di Musicoterapia a parlare di film Pixar,
+        <br> da allora i due si fanno chiamare “The Hamsters®”.
+        <br>
+        <br> Lei disegna, lui suona.
+        <br> Lei ripara le tubature, lui cucina.
+        <br> Lei guida, lui dorme.
+        <br>
+        <br> E’ amore.
+        <br>
+      </div>
+    </div>
+
+    <div class="section" id="section2">
+      <div id="quandoContenitore">
+        <h1 class="titolo-sezione">Quando?</h1>
+        <h3 id="si-sposano">SI SPOSANO!</h3>
+        <h3 id="data-lettere">il nove Ottobre duemilaquindici</h3>
+        <h3 id="data-numeri">9.10.15</h3>
+        <h3 id="data-riassunto">è Venerdi* 9 Ottobre 2015</h3>
+        <h3 id="footer-tradizioni">*si, lo sappiamo che “né di venere né di marte” ma ci piace sfidare le tradizioni.</h3>
+      </div>
+    </div>
+
+    <div class="section" id="section3">
+      <div id="doveContenitore">
+        <h1 class="titolo-sezione">Dove?</h1>
+        <div id="cerimonia">
+          <h1>STEP 01.</h1>
+          <h2>"La Cerimonia"</h2>
+          <p>Presso il COMUNE DI VIMERCATE alle ore 16.00.
+            <br/> Comodi parcheggi in zona, arrivare prima è consigliato.
+            <br/> I Brianzoli si muovono tutti in auto, sempre, in qualsiasi situazione,
+            <br/> non necessariamente è una buona idea, ma è il motivo per cui ci sono i parcheggi.
+          </p>
+        </div>
+
+        <div id="superPartyTime">
+          <h1>STEP 02.</h1>
+          <h2>"itsSuperPartyTime"</h2>
+          <p>Presso la CASCINA GALBUSERA NERA, nel Parco del Curone,
+            <br/> meglio cliccare <a href="https://www.google.it/maps/place/Via+Galbusera+Nera,+23888+Rovagnate+LC/@45.7244854,9.3692071,657m/data=!3m1!1e3!4m2!3m1!1s0x4786af641809544f:0x600ff9a961e4ed7" target="_blank" style="color:black;">qui</a> per leggere
+            esattamente
+            <br/> le coordinate GPS e capire dov'è il posto.
+            <br/> Oppure seguire la nostra '500.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="section" id="section4">
+      <div id="comeContenitore">
+        <h1 class="titolo-sezione">Come?</h1>
+        <div id="immagini-vestiti-lui"></div>
+        <h2 class="testo">Mutante e maglietta di lana,mi raccomando!</h2>
+        <div id="immagini-vestiti-lei"></div>
+      </div>
+    </div>
+
+    <div class="section" id="section5">
+      <div id="regali_nel_cuore">
+        <h1 class="titolo-sezione">Cosa?</h1>
+        <div id="mappamondo"></div>
+        <div id="regali">
+          <p class="testo">I migliori regali sono le esperienze che portiamo nel cuore.</br>
+            Ci piacerebbe se ci aiutaste a realizzare<br />il nostro viaggio da sogno in Nuova Zelanda.</br>
+            Ecco qualche idea su come potete contribuire:
+            <br/>
+            <ul id="viaggioElementi">
+              <li>Voliamo fino in nuova Zelanda per 24 ore! (~300€)</li>
+              <li>Visitiamo gli studios della Weta Workshop a Wellington (~150€)</li>
+              <li>Visitiamo Hobbiton, set del "Signore degli Anelli" a Matamata (~200€)</li>
+              <li>Viaggiamo con il treno "TranzAlpine"</br> dall'Oceano Pacifico al Mar di Tasmania (~400€)</li>
+              <li>Ammiriamo l'Haka e assaporare un Hangi tradizionale a Rotorua (~70€)</li>
+              <li>Pagaiate con noi sul fiume alla scoperta del Whanganui National Park(~80€)</li>
+              <li>Soggiorniamo una notte in una casa sulla spiaggia nera di Karekare <br />come in "Lezioni di Piano"(~250€)</li>
+              <li>Proviamo a fare surf a Manu Bay (non riuscendoci)(~40€)</li>
+              <li>Esploriamo Il magico buio illuminato <br />come un cielo stellato delle "Waitomo Glowwarm Cave"(~120€)</li>
+              <li>Riusciremo a vedere le balene questa volta? Scopriamolo a Kaikoura(~50€)</li>
+            </ul>
+          </p>
+        </div>
+        <div id="footer">
+          <div>Potete darci una mano a realizzare il nostro viaggio con un gradito bonifico al conto intestato a</div>
+          <div class="iban" style="padding-top:10px;">
+            VALENTINA PANEBIANCO
+          </div>
+          <div class="iban">
+            IBAN: IT 64 N 03169 01600 000315411017
+          </div>
+          <div id="ringrazia">Vi ringraziamo per il supporto.</div>
+        </div>
+      </div>
+    </div>
   </div>
 
-</div>
-
 </body>
+
 </html>
