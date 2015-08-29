@@ -245,9 +245,9 @@ h1.titolo-sezione {
   font-size: 1.2em;
   color: #cccccc;
 }
-#iban {
+.iban {
   font-weight: bolder;
-  padding: 10px;
+  padding: 5px;
 }
 #ringrazia {
   font-family: 'Dancing Script', cursive;
