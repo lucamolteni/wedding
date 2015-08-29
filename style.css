@@ -164,9 +164,10 @@ div#superPartyTime p {
   margin-right: 20px;
 }
 #mappamondo {
-  width: 900px;
-  height:500px;
-  margin-left: 312px;
+  width: 450px;
+  height:250px;
+  float: left;
+  margin-left: 176px;
   background-image: url(./images/Mondo.svg);
   background-repeat: no-repeat;
   background-color: white;
@@ -226,4 +227,14 @@ h1.titolo-sezione {
   font-size: 1em;
   margin-top: 80px;
   color: #d7d7d7;
+}
+#regali {
+  float:left;
+  text-align: left;
+}
+#viaggioElementi {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 1em;
+  color: #cccccc;
 }
