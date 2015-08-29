@@ -238,3 +238,18 @@ h1.titolo-sezione {
   font-size: 1em;
   color: #cccccc;
 }
+#footer {
+  float: none;
+  clear: both;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  color: #cccccc;
+}
+#iban {
+  font-weight: bolder;
+  padding: 10px;
+}
+#ringrazia {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.2em;
+}
