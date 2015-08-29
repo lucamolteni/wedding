@@ -166,7 +166,7 @@ div#superPartyTime p {
 #mappamondo {
   width: 900px;
   height:500px;
-  margin: auto;
+  margin-left: 312px;
   background-image: url(./images/Mondo.svg);
   background-repeat: no-repeat;
   background-color: white;
